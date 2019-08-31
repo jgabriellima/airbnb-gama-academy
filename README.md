@@ -17,5 +17,5 @@ Vamos consumir a API: [API - https://api.sheety.co/30b6e400-9023-4a15-8e6c-16aa4
     
 #### O resultado esperado é:
 
-<img src="https://github.com/jgabriellima/airbnb-gama-academy/raw/master/src/screenshot.png" alt="AirBnB Gama Academy" />
+<img src="https://github.com/jgabriellima/airbnb-gama-academy/blob/master/screenshot.png?raw=true" alt="AirBnB Gama Academy" />
 
